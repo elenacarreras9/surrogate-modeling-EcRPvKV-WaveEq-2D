@@ -1,0 +1,17 @@
+# Entorno virtual
+venv/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Datos (pueden pesar mucho; no van al repo)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Sistema / editor
+.vscode/
+.DS_Store
