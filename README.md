@@ -27,7 +27,6 @@ tests/         # tests del código en src/
 - [ ] Validar y analizar resultados (Fase 3)
 - [ ] Pulir README y publicar el repo (Fase 4)
 
-Ver el plan completo en el proyecto de Claude ("Profesional" → `mini-proyecto-surrogate-modeling-elena.md`).
 
 ## Setup
 
