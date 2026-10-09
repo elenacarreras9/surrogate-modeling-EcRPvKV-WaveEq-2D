@@ -1,0 +1,17 @@
+# Deep learning
+torch>=2.2
+
+# Data and science
+numpy>=1.26
+scipy>=1.12
+pandas>=2.2
+scikit-learn>=1.4
+
+# Visualization
+matplotlib>=3.8
+
+# Interactive exploration (optional)
+jupyter>=1.0
+
+# Code quality
+pytest>=8.0

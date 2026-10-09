@@ -1,0 +1,28 @@
+# Virtual environments
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Data (can be large; not versioned)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# MATLAB: editor autosave and backup copies, compiled MEX files, Simulink cache
+*.asv
+*.m~
+*.mex*
+slprj/
+
+# The MATLAB solver is kept only locally (not part of the published code)
+MATLAB/
+
+# System / editor
+.vscode/
+.DS_Store
